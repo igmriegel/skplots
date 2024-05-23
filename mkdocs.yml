@@ -1,0 +1,12 @@
+site_name: Basic MkDocs Example Project
+theme:
+  name: readthedocs
+  highlightjs: true
+plugins:
+  - search
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            docstring_style: google
+
