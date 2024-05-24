@@ -5,3 +5,4 @@ joblib>=0.10
 pytest
 mkdocs
 mkdocstrings
+mkdocs-material
