@@ -4,3 +4,4 @@ scipy>=0.9
 joblib>=0.10
 pytest
 mkdocs
+mkdocstrings
