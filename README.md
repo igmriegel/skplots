@@ -9,5 +9,5 @@
 ## Installation
 
 ```bash
-pip install skplot
+pip install skplots
 ```
